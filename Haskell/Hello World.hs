@@ -1,0 +1,1 @@
+main = putStrKn "Hello World"
